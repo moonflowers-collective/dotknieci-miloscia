@@ -6,17 +6,33 @@ Uznanie autorstwa przypisuje się Moonflowers Collective. Zobacz sekcję *wspó
 
 Znajdziesz nas na [discordzie](https://discord.com/invite/NFRSUEztRW)!
 
+## Wersja alpha
+Dokument jest we wstępnej fazie rozwoju. 
+Pamiętaj, że możesz zaangażować się w rozwijanie go razem ze społecznością.
+
 ## Akty
-Dokument podzielono na części, które nazywamy aktami i które są rozwijane równolegle.
+Dokument podzielono na części, które nazywamy aktami i które są rozwijane niezależnie od siebie.
 
 ### Akt I: Sztuka Miłości
-*do napisania*
+Fundament filozofii Dotkniętych Miłością, świadomość, istota cierpienia oraz praktyka Sztuki Miłości.
 
 ### Akt II: Rozwój Osobisty
-*do napisania*
+Rozprawy z intencją niesienia pomocy w indywidualnym rozwoju i rozwiązywaniu osobistych problemów.
 
 ### Akt III: Komunikacja i Relacje
-*do napisania*
+Zasady zdrowej komunikacji, zależności tożsamości i ego, oraz budowanie i utrzymywanie relacji międzyludzkich.
 
 ### Akt IV: Filozofia i Psychologia
-*do napisania*
+Przedstawienie oraz zinterpretowanie dzieł sztuki, teorii i praktyk filozoficznych oraz psychologicznych.
+
+### Akt V: Natura i Nauka
+Zjawiska świata fizycznego w obserwacji i eksperymentacji, więc nauka oraz obcowanie z przyrodą.
+
+### Akt VI: Ogród Księżycowych Kwiatków 
+Dzieje i najważniejsze osobowości Moonflowers Collective, interpretacje i historia projektów społeczności.
+
+### Akt VII: Źródła 
+Biografie, biblioteczka, źródła do dalszego zgłębiania wiedzy oraz praktyczne wskazówki jak z nich korzystać.
+
+## Załączniki
+Do dokumentu dołączono bibliografię oraz spis współautorów. Znajdziesz je na końcu zkompilowanego dokumentu
